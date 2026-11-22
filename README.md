@@ -40,7 +40,7 @@ Guanajuato, México · Remote-friendly · English C1 · Spanish native
 
 ## Experience
 
-**Machine Learning Researcher** — University of Guanajuato, MX · *2024 – Present*
+**Machine Learning Researcher** — University of Guanajuato, MX · *2024 – 2026*
 
 - Developed and validated computer vision (YOLO, Segment Anything, PyTorch) and time-series forecasting (ARIMA, SARIMA, Prophet) models.
 - Built end-to-end preprocessing, feature engineering and inference pipelines that turn raw image and sensor data into structured outputs.
