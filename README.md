@@ -1,7 +1,10 @@
-<div align="center">
+<div align="center" style="font-family: 'Helvetica Neue', Helvetica, 'Times New Roman', serif;">
 
 # Camilo Covarrubias Hernández
-*Software Engineering, Data Science, Machine Learning, Computer Vision, Embedded Systems*
+
+## Engineer
+
+***Software Engineering, Data Science, Machine Learning, Computer Vision, Embedded Systems***
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
@@ -13,6 +16,8 @@
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 
 </div>
+
+<div style="font-family: 'Helvetica Neue', Helvetica, 'Times New Roman', serif;">
 
 ---
 
@@ -70,3 +75,5 @@ Guanajuato, México · Remote-friendly · English C1 · Spanish native
 
 - LinkedIn: [camilo-covarrubias-hernandez](https://www.linkedin.com/in/camilo-covarrubias-hernandez/)
 - Email: 280268covarrubiashernandez@gmail.com
+
+</div>
