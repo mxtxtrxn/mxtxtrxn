@@ -21,7 +21,7 @@
 
 ## About
 
-I'm a software engineer and data scientist with **3+ years** of experience turning raw data into production-ready systems. I work across the full lifecycle: data pipelines and feature engineering, model training and validation (time series, computer vision), REST API deployment, and the engineering around it — clean architecture, CI/CD, databases and embedded integrations.
+I'm a software engineer and data scientist with **4+ years** of experience turning raw data into production-ready systems. I work across the full lifecycle: data pipelines and feature engineering, model training and validation (time series, computer vision), control systems, REST API deployment and the engineering around it, clean architecture, CI/CD, databases and embedded integrations.
 
 Currently working on remote projects. Background also includes patent design and development, along with hands-on work on confidential projects under non-disclosure agreements.
 
