@@ -3,6 +3,7 @@
 # Camilo Covarrubias Hernández
 
 ## Engineer
+
 *Software Engineering, Data Science, Machine Learning, Computer Vision, Embedded Systems*
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -51,19 +52,6 @@ Guanajuato, México · Remote-friendly · English C1 · Spanish native
 - Designed MySQL schemas, optimized SQL queries and built reports for inventory tracking and production monitoring; integrated SAP data into internal apps and reporting.
 - Developed C# backends (clean architecture) and full-stack JavaScript / MySQL applications used directly by industrial stakeholders.
 - Built embedded C software with CAN/LIN communication and AUTOSAR Classic components; set up CI/CD pipelines with automated testing.
-
----
-
-## Featured repositories
-
-| Repository | What it is |
-| --- | --- |
-| [proyecto_horizonte](https://github.com/mxtxtrxn/proyecto_horizonte) | FX time-series forecasting + AI verification agent (Python, pandas, XGBoost) |
-| [eclipse_de_luna_cpp](https://github.com/mxtxtrxn/eclipse_de_luna_cpp) | MXN/EUR forecasting in C++17 — ARIMA and neural nets, no external dependencies |
-| [Calculo.Distancias.Kinect](https://github.com/mxtxtrxn/Calculo.Distancias.Kinect) | Safe-distance estimation and color segmentation with Kinect + MATLAB |
-| [Foam-NLFEM](https://github.com/mxtxtrxn/Foam-NLFEM) | Non-linear polymer foam simulation with finite elements in C++17 |
-| [Auto-Python](https://github.com/mxtxtrxn/Auto-Python) | Production-line label printing system (Tkinter + MySQL) |
-| [Fuzzy_Ball_Beam](https://github.com/mxtxtrxn/Fuzzy_Ball_Beam) | Fuzzy-logic ball-beam control system |
 
 ---
 
