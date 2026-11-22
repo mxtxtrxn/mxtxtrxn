@@ -23,7 +23,7 @@
 
 I'm a software engineer and data scientist with **3+ years** of experience turning raw data into production-ready systems. I work across the full lifecycle: data pipelines and feature engineering, model training and validation (time series, computer vision), REST API deployment, and the engineering around it — clean architecture, CI/CD, databases and embedded integrations.
 
-Currently a **Machine Learning Researcher** at the University of Guanajuato, building real-time computer vision and forecasting systems for industrial quality control.
+Currently working on remote projects for **Alignerr** and **Imerit**. Background also includes patent design and development, along with hands-on work on confidential projects under non-disclosure agreements.
 
 Guanajuato, México · Remote-friendly · English C1 · Spanish native
 
@@ -40,7 +40,7 @@ Guanajuato, México · Remote-friendly · English C1 · Spanish native
 
 ## Experience
 
-**Machine Learning Researcher** — University of Guanajuato, MX · *2024 – 2026*
+**Machine Learning Researcher** — University of Guanajuato, MX · *2024 – Present*
 
 - Developed and validated computer vision (YOLO, Segment Anything, PyTorch) and time-series forecasting (ARIMA, SARIMA, Prophet) models.
 - Built end-to-end preprocessing, feature engineering and inference pipelines that turn raw image and sensor data into structured outputs.
