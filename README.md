@@ -1,4 +1,4 @@
-<div align="center" style="font-family: 'Helvetica Neue', Helvetica, 'Times New Roman', serif;">
+<div align="center">
 
 # Camilo Covarrubias Hernández
 
@@ -16,8 +16,6 @@
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 
 </div>
-
-<div style="font-family: 'Helvetica Neue', Helvetica, 'Times New Roman', serif;">
 
 ---
 
@@ -75,5 +73,3 @@ Guanajuato, México · Remote-friendly · English C1 · Spanish native
 
 - LinkedIn: [camilo-covarrubias-hernandez](https://www.linkedin.com/in/camilo-covarrubias-hernandez/)
 - Email: 280268covarrubiashernandez@gmail.com
-
-</div>
